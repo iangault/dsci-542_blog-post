@@ -9,4 +9,4 @@ about:
       href: https://github.com/iangault
 ---
 
-This is a blog created for DSCI-542 Communications.
+A github pages site containing outputs from DSCI-542 Communications.

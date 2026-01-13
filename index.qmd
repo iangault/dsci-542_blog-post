@@ -1,5 +1,5 @@
 ---
-title: "dsci-542_blog-post"
+title: "Blog Post"
 listing:
   contents: posts
   sort: "date desc"

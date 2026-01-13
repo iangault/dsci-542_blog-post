@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "dsci-542_blog-post"
+  title: "DSCI-542 Communications"
   navbar:
     right:
       - about.qmd
